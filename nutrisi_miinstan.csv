@@ -1,0 +1,127 @@
+merk,merk_rasa,kemasan,sajian,berat,kalori,lemak_total,karbohidrat,protein,lemak_jenuh,lemak_trans,ltj_ganda,ltj_tunggal,kolesterol,serat,gula,sodium,kalium
+Indomie,Indomie Goreng Original,bungkus,goreng,80,380,12,52,8,6,0,0,0,0,2,6,680,0
+Indomie,Indomie Soto,bungkus,kuah,70,300,10,46,7,5,5,0,0,0,2,4,1470,0
+Indomie,Indomie Ayam Bawang,bungkus,kuah,69,300,11,43,7,6,0,0,0,0,2,3,1330,0
+Indomie,Indomie Kari Ayam,bungkus,kuah,72,320,12,46,7,5,0,0,0,0,2,4,1350,0
+Indomie,Indomie Rendang,bungkus,goreng,91,420,16,59,9,8,0,0,0,0,3,9,1060,0
+Indomie,Indomie Goreng Jumbo,bungkus,goreng,129,560,21,81,13,11,0,0,0,0,3,13,1040,0
+Indomie,Indomie Aceh,bungkus,goreng,90,430,19,55,9,9,0,0,0,0,6,6,790,0
+Indomie,Indomie Ayam Geprek,bungkus,goreng,85,410,20,49,9,9,0,0,0,0,3,6,900,0
+Indomie,Indomie Kaldu Ayam,bungkus,kuah,75,340,12,50,6,9,0,0,0,0,4,0,980,0
+Indomie,Indomie Soto Spesial,bungkus,kuah,75,330,14,44,7,7,0,0,0,0,5,2,920,0
+Indomie,Indomie Ayam Pop,bungkus,goreng,85,380,15,55,7,7,0,0,0,0,4,6,950,0
+Indomie,Indomie Soto Banjar Limau,bungkus,kuah,75,340,14,45,7,7,0,0,0,0,8,4,1050,0
+Indomie,Indomie Seblak Hot Jeletot,bungkus,kuah,75,360,17,44,7,8,0,0,0,0,3,8,1190,0
+Indomie,Indomie Soto Lamongan,bungkus,kuah,80,360,14,7,10,7,0,0,0,0,6,4,1030,0
+Indomie,Indomie Soto Medan,bungkus,kuah,70,310,12,42,7,6,0,0,0,0,2,3,1370,0
+Indomie,Indomie Ayam Spesial,bungkus,kuah,69,300,10,44,7,5,0,0,0,0,2,3,1180,0
+Indomie,Indomie Ayam Panggang Jumbo,bungkus,goreng,127,570,25,75,14,12,0,0,0,0,3,13,1800,0
+Indomie,Indomie Kriuk Pedas,bungkus,goreng,90,400,14,60,9,10,0,0,0,0,4,4,1170,0
+Indomie,Indomie Goreng Pedas,bungkus,goreng,79,360,13,52,8,8,0,0,0,0,2,7,980,0
+Indomie,Indomie Mi Celor,bungkus,kuah,75,320,11,49,6,6,0,0,0,0,2,5,1090,0
+Indomie,Indomie Mi Coto Makassar,bungkus,kuah,75,330,13,46,8,6,0,0,0,0,3,4,980,0
+Indomie,Indomie Mi Kocok Bandung,bungkus,kuah,75,350,16,44,8,8,0,0,0,0,2,7,1450,0
+Indomie,Indomie Sambal Rica-Rica,bungkus,goreng,85,420,22,49,8,10,0,0,0,0,7,3,850,0
+Indomie,Indomie Empal Gentong,bungkus,kuah,75,330,12,47,8,6,0,0,0,0,3,5,1550,0
+Indomie,Indomie Kebab Rendang,bungkus,goreng,83,370,14,55,6,7,7,0,0,0,3,5,820,0
+Indomie,Indomie Mieghetti,bungkus,goreng,85,390,14,57,8,9,0,0,0,0,4,5,940,0
+Indomie,Indomie Cabe Ijo,bungkus,goreng,85,420,21,49,8,10,0,0,0,0,7,4,970,0
+Indomie,Indomie Kuah Cakalang,bungkus,kuah,75,330,11,49,8,6,0,0,0,0,2,4,1270,0
+Indomie,Indomie Tom Yum,bungkus,kuah,85,380,14,55,8,7,0,0,0,0,3,11,960,0
+Indomie,Indomie Kaldu Udang,bungkus,kuah,65,280,10,39,6,5,0,0,0,0,2,2,1160,0
+Indomie,Indomie Sambal Matah,bungkus,goreng,85,410,20,51,8,9,0,0,0,0,0,2,880,0
+Indomie,Indomie Cakalang,bungkus,goreng,82,420,16,60,9,11,0,0,0,0,3,5,1070,0
+Indomie,Indomie Tengkleng,bungkus,kuah,75,350,14,45,9,7,0,0,0,0,7,2,860,0
+Sedaap,Sedaap Goreng Original,bungkus,goreng,90,400,13,61,10,6,0,0,0,0,7,7,1000,0
+Sedaap,Sedaap Ayam Bawang,bungkus,kuah,70,320,14,42,8,5,0,0,0,0,5,2,950,0
+Sedaap,Sedaap Soto,bungkus,kuah,75,340,14,46,9,7,0,0,0,0,2,3,1040,0
+Sedaap,Sedaap Kari Spesial,bungkus,kuah,76,350,14,47,8,7,0,0,0,0,3,3,1060,0
+Sedaap,Sedaap Korean Spicy Chicken,bungkus,goreng,87,390,14,58,8,5,0,0,0,0,4,5,1200,0
+Sedaap,Sedaap Singapore Spicy Laksa,bungkus,goreng,83,360,13,55,8,6,0,0,0,0,5,6,930,0
+Sedaap,Sedaap Rawit Bingit,cup,goreng,75,360,18,44,6,8,0,0,0,0,5,2,950,0
+Sedaap,Sedaap Soto Madura,bungkus,kuah,82,380,16,49,9,7,0,0,0,0,5,2,1050,0
+Sedaap,Sedaap Sambal Goreng,bungkus,goreng,88,410,16,56,9,8,0,0,0,0,3,3,1020,0
+Sedaap,Sedaap Kari Spesial,bungkus,kuah,76,350,14,47,8,7,8,0,0,0,3,3,1060,0
+Sedaap,Sedaap Salero Padang,bungkus,goreng,86,390,15,56,9,5,0,0,0,0,4,5,1170,0
+Sedaap,Sedaap Bakso Spesial,bungkus,kuah,77,360,17,42,9,5,0,0,0,0,4,3,940,0
+Sedaap,Sedaap Korean Spicy Soup,cup,kuah,75,360,16,45,7,7,0,0,0,0,5,5,1020,0
+Sedaap,Sedaap Ayam Bawang Telur,cup,kuah,77,370,18,45,6,8,0,0,0,0,4,2,1010,0
+Sedaap,Sedaap Ayam Krispi,bungkus,goreng,88,400,15,58,8,8,0,0,0,0,6,3,930,0
+Sedaap,Sedaap Ayam Bakar Limau,bungkus,goreng,89,400,14,61,8,6,2,2,4,0,5,6,1160,0
+Sedaap,Sedaap Cup Soto,cup,kuah,81,370,18,45,8,7,0,0,0,0,7,2,1210,0
+Sedaap,Sedaap Cup Goreng,cup,goreng,85,410,19,53,7,8,0,0,0,0,7,6,850,0
+Sedaap,Sedaap Tasty Beef Yakiniku,bungkus,kuah,115,530,23,69,13,10,0,0,0,0,7,5,1120,0
+Sedaap,Sedaap White Curry,bungkus,kuah,81,360,14,50,8,7,0,0,0,0,6,2,990,0
+Sarimi,Sarimi Isi 2 Ayam Kecap,bungkus,goreng,126,590,24,81,11,12,0,0,0,0,4,13,1350,0
+Sarimi,Sarimi Isi 2 Ayam Kremes,bungkus,goreng,125,580,26,78,10,12,0,0,0,0,8,5,1310,0
+Sarimi,Sarimi Ayam Bawang,bungkus,kuah,75,340,15,46,7,8,0,0,0,0,3,2,900,0
+Sarimi,Sarimi Isi 2 Soto,bungkus,kuah,113,520,23,68,10,11,0,0,0,0,11,1,1350,0
+Sarimi,Sarimi Baso Sapi,bungkus,kuah,77,360,15,49,7,8,0,0,0,0,5,2,990,0
+Sarimi,Sarimi Isi 2 Ayam Bawang,bungkus,kuah,115,510,20,70,13,10,0,0,0,0,3,3,1470,0
+Sarimi,Sarimi Isi 2 Baso Sapi,bungkus,kuah,115,510,19,74,13,9,0,0,0,0,3,3,1360,0
+Sarimi,Sarimi Isi 2 Tongseng Ayam,bungkus,goreng,120,560,23,76,11,11,0,0,0,0,6,5,1340,0
+Sarimi,Sarimi Kaldu Ayam,bungkus,kuah,70,320,12,45,7,6,0,0,0,0,2,11,670,0
+Sarimi,Sarimi Isi 2 Kari Spesial,bungkus,kuah,115,540,24,70,10,12,0,0,0,0,10,1,1330,0
+Sarimi,Sarimi Ayam,bungkus,kuah,75,350,16,46,7,8,0,0,0,0,9,2,880,0
+Sarimi,Sarimi Isi 2 Soto Koya Jeruk Nipis,bungkus,kuah,112,520,21,73,10,11,0,0,0,0,5,7,1560,0
+Gaga,Gaga Kuah Jalapeno,bungkus,kuah,75,330,13,43,9,0,0,0,0,0,0,2,1320,0
+Gaga,Gaga 100 Jalapeno,bungkus,goreng,85,380,14,54,8,0,0,0,0,0,0,6,1140,0
+Gaga,Gaga 100 Kuah Soto,bungkus,kuah,75,330,13,45,9,0,0,0,0,0,0,1,1240,0
+Gaga,Gaga 100 Lada Hitam,bungkus,goreng,85,390,16,53,9,0,0,0,0,0,0,6,1150,0
+Gaga,Gaga 100 Goreng Chipotle,bungkus,goreng,85,370,14,52,9,0,0,0,0,0,0,6,1010,0
+Lemonilo,Lemonilo Pedas Korea,bungkus,goreng,85,300,4.5,57,9,2,0,0,0,0,2,4,720,45
+Lemonilo,Lemonilo Goreng Original,bungkus,goreng,80,320,7,58,7,3,0,0,0,0,4,5,640,0
+Lemonilo,Lemonilo Ayam Bawang,bungkus,kuah,70,280,8,44,7,4,0,0,0,0,3,4,1270,0
+Lemonilo,Lemonilo Goreng Rendang,bungkus,goreng,77,290,5,54,8,2.5,0,0,0,0,3,3,640,462
+Lemonilo,Lemonilo Kari Ayam,bungkus,kuah,73,300,5,54,8,2,0,0,0,0,3,4,970,0
+Richeese,Richeese Ramen Keju,bungkus,kuah,65,260,10,36,6,5,0,0,0,0,0,2,1220,0
+Richeese,Richeese Goreng Keju Pedas,bungkus,goreng,69,330,15,40,7,7,0,0,0,0,0,2,970,0
+Bihunku,Bihunku Soto,bungkus,kuah,55,210,6,39,2,2.5,0,0,0,0,0,1,1430,0
+Bihunku,Bihunku Ayam Bawang,bungkus,kuah,55,200,3.5,39,2,0,0,0,0,0,0,1,690,0
+Bihunku,Bihunku Goreng Spesial,bungkus,goreng,60,230,4,47,2,0,0,0,0,0,0,6,770,0
+Bihunku,Bihunku Asam Pedas,bungkus,kuah,55,210,5,40,2,1.5,0,0,0,0,0,3,910,0
+Bihunku,Bihunku Kari Laksa,bungkus,kuah,55,210,3,44,1,2,0,0,0,0,0,2,600,0
+Bihunku,Bihunku Spicy Kimchi,bungkus,goreng,55,200,2.5,42,2,1.5,0,0,0,0,0,4,1300,0
+ABC,ABC Gulai Ayam,bungkus,kuah,70,320,13,44,7,6,0,0,0,0,2,1,1190,0
+ABC,ABC Ayam Bawang,bungkus,kuah,65,300,13,40,6,6,0,0,0,0,0,1,1320,0
+ABC,ABC Sapi Pedas,bungkus,goreng,80,400,21,45,8,11,0,0,0,0,6,3,1230,0
+ABC,ABC Semur Ayam Pedas,bungkus,kuah,70,320,13,44,6,6,0,0,0,0,3,3,1340,0
+ABC,ABC Goreng Spesial,cup,goreng,80,380,20,45,6,9,0,0,0,0,4,7,930,0
+ABC,ABC Ayam Pedas Limau,bungkus,goreng,85,390,14,58,8,7,0,0,0,0,0,4,640,0
+ABC,ABC Spicy Mayo Cheese,bungkus,goreng,85,370,13,55,8,5,0,0,0,0,5,5,880,100
+ABC,ABC Cup Kari Ayam,cup,kuah,60,280,13,35,7,6,0,0,0,0,5,1,1090,0
+ABC,ABC Sup Tomat Pedas,bungkus,kuah,70,320,13,44,7,6,0,0,0,0,2,1,1290,0
+Sukses's,Sukses's Isi 2 Ayam Kremes,bungkus,goreng,133,600,22,88,14,11,10,0,0,0,8,10,1220,0
+Sukses's,Sukses's Isi 2 Ayam Kecap,bungkus,goreng,129,570,21,82,14,10,0,0,0,0,7,9,1170,0
+Sukses's,Sukses's Isi 2 Kari Ayam,bungkus,kuah,116,510,21,70,13,9,0,0,0,0,9,4,1170,0
+Nissin,Gekikara Ramen Goreng,bungkus,goreng,120,550,23,71,12,11,0,0,0,0,3,6,1390,0
+Nissin,Gekikara Ramen,bungkus,kuah,120,550,23,72,13,8,0,0,0,0,5,0,1200,0
+Nissin,Gekikara Ramen Hot Carbonara,bungkus,kuah,120,540,21,78,10,10,0,0,0,0,5,7,1310,0
+Nissin,Gekikara Ramen Hot Mushroom,bungkus,kuah,109,500,18,74,9,9,0,0,0,0,6,4,1200,0
+Nissin,Gekikara Ramen Hot Chicken,bungkus,kuah,80,360,14,52,7,6,0,0,0,0,4,5,1030,0
+Nissin,Gekikara Ramen Rasa Pedas,bungkus,kuah,109,500,18,74,9,9,0,0,0,0,6,4,1200,0
+Nissin,Yakisoba Takoyaki Ala Jepang,bungkus,goreng,104,470,18,68,10,9,0,0,0,0,3,4,910,0
+Nissin,Uma-kara Spicy Ramen,bungkus,kuah,106,460,17,66.9,10.8,8.8,0,0,0,0,0,5.4,1950,0
+Nissin,Mikuya Ramen Tori Kara,bungkus,kuah,120,540,21,75,11,11,0,0,0,0,3,5,1090,0
+Nissin,Mikuya Ramen Iya-Iya,bungkus,kuah,120,560,26,70,11,11,0,0,0,0,4,8,2440,0
+Nissin,Mikuya Ramen Kecap Pedas,bungkus,kuah,94,430,17,60,8,8,0,0,0,0,3,6,1500,0
+Nissin,Mikuya Kaldu Ayam,bungkus,kuah,83,380,14,56,7,0,8,0,0,0,2,3,1090,0
+Samyang,Samyang Spicy Chicken Noodles,bungkus,goreng,140,530,16,85,12,8,0,0,0,0,0,7,1280,0
+Samyang,Samyang Carbonara,bungkus,kuah,130,550,20,84,8,10,0,0,0,0,0,5,1330,0
+Samyang,Samyang Hot Chicken Flavor Ramen 2x Spicy,bungkus,kuah,140,545,17,85,13,8,0,0,0,0,1,7,1360,0
+Samyang,Samyang Cheese,bungkus,goreng,140,550,18,84,13,9,0,0,0,0,1,7,1440,0
+Samyang,Samyang Jjajang,bungkus,goreng,140,560,19,84,13,9,0,0,0,3,4,8,1420,0
+Samyang,Samyang Buldak Light,bungkus,goreng,110,380,3,77,10,0.5,0,0,0,0,3,5,1270,250
+Samyang,Samyang Curry,bungkus,kuah,140,550,18,85,13,9,0,0,0,4,4,7,1510,300
+Samyang,Samyang Kimchi Ramen,bungkus,kuah,80,360,13,53,7,7,0,0,0,0,3,4,1460,161
+Pop Mie,Pop Mie Original,cup,goreng,39,180,9,22,4,4.5,0,0,0,0,2,1,500,0
+Pop Mie,Pop Mie Pedes Dower,cup,kuah,75,360,16,46,6,8,0,0,0,0,3,4,1320,0
+Pop Mie,Pop Mie Ayam,cup,kuah,75,320,11,46,9,6,0,0,0,0,3,5,1030,0
+Pop Mie,Pop Mie Baso,cup,kuah,75,360,15,47,8,8,0,0,0,0,3,5,720,0
+Pop Mie,Pop Mie Goreng Pedes Gledek,cup,goreng,75,370,18,45,6,9,0,0,0,0,2,6,930,0
+Pop Mie,Pop Mie Kari Ayam,cup,kuah,75,340,15,44,8,7,0,0,0,0,4,7,830,0
+Pop Mie,Pop Mie Soto Ayam,cup,kuah,77,360,16,45,8,8,0,0,0,0,3,6,960,0
+Pop Mie,Pop Mie Mini,cup,goreng,38,160,6,23,3,3,7,0,0,0,1,3,600,0
+Pop Mie,Pop Mie Ayam Bawang,cup,kuah,75,320,13,45,7,7,0,0,0,0,3,4,1320,0
+Pop Mie,Pop Mie Goreng Spesial,cup,goreng,80,390,18,53,6,8,0,0,0,0,3,5,910,0
+Pop Mie,Pop Mie Goreng Pedas,cup,goreng,80,370,17,49,6,8,0,0,0,0,6,4,950,0
